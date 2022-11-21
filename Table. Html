@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+<style>
+table, th, td {
+  border:1px solid black;
+}
+</style>
+<body>
+
+<h2>A basic HTML table</h2>
+
+<table style="width:100%">
+  <tr>
+    <th>Days</th>
+    <th>1</th>
+    <th>2</th>
+    <th>3</th>
+  </tr>
+  <tr>
+    <td>Monday</td>
+    <td>Social science</td>
+    <td>English</td>
+    <td>Sanskrit</td>
+  </tr>
+  <tr>
+    <td>Wednesday</td>
+    <td>Maths</td>
+    <td>Gk</td>
+    <td>Science</td>
+  </tr>
+  <tr>
+    <td>Tuesday</td>
+    <td>Science</td>
+    <td>Hindi</td>
+    <td>Computer</td>
+  </tr>
+</table>
+
+
+</body>
+</html>
+
